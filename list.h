@@ -4,7 +4,6 @@
 typedef struct _node Node;
 
 typedef struct _list List;
-
 /**
  * Used to create a list structure
  */
